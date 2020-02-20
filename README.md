@@ -7,7 +7,6 @@
 | Functionality | Package                            | Front Component |
 |---------------|------------------------------------|-----------------|
 | auth          | metamask-login-front-logic @1.0.16 | Buttons/SignIn  |
-|---------------|------------------------------------|-----------------|
 | deploy        |                                    | Buttons/Deploy  |
 
 
