@@ -2,13 +2,11 @@
 `yarn storybook` 
 
 ## Dependenchy Table
-
 | Functionality | Package                            | Front Component |
 |---------------|------------------------------------|-----------------|
 | auth          | metamask-login-front-logic @1.0.16 | Buttons/SignIn  |
 |               |                                    |                 |
 |               |                                    |                 |
-
 ## Todos
 Check react components one by one with StorybookUI components-guide
 - [ ] Entire Frames @ App.tsx
