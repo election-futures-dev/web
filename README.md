@@ -1,11 +1,14 @@
 ## How to Run
+
 `yarn storybook` 
 
 ## Dependenchy Table
+
 | Functionality | Package                            | Front Component |
 |---------------|------------------------------------|-----------------|
 | auth          | metamask-login-front-logic @1.0.16 | Buttons/SignIn  |
-Check react components one by one with StorybookUI components-guide
+
+## Todos
 - [ ] Entire Frames @ App.tsx
 - [ ] Nav Layout
 - [ ] Main Panel Layout
