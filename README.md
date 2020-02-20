@@ -1,8 +1,13 @@
 ## How to Run
 `yarn storybook` 
 
-## Login Functionality
-Click `Sign in` button after launch `storybook`.
+## Dependenchy Table
+
+| Functionality | Package                            | Front Component |   |   |
+|---------------|------------------------------------|-----------------|---|---|
+| auth          | metamask-login-front-logic @1.0.16 | Buttons/SignIn  |   |   |
+|               |                                    |                 |   |   |
+|               |                                    |                 |   |   |
 
 ## Todos
 Check react components one by one with StorybookUI components-guide
